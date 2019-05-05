@@ -18,3 +18,5 @@ A sample web application that will place a gltf building model onto an empty spa
 * Open the sample web application using the following url: *http://localhost:8080/*
 
 ### Other Notes
+
+* To create a new model, inside the *app.js*, call the createModel function with latitude, longitude and optional direction (angle) as parameters.
