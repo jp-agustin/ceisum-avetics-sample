@@ -1,0 +1,28 @@
+{
+  "name": "ceisum-avetics-sample",
+  "version": "1.0.0",
+  "description": "A sample web application that will place a gltf building model onto an empty space",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jp-agustin/ceisum-avetics-sample.git"
+  },
+  "author": "John Patrick Agustin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jp-agustin/ceisum-avetics-sample/issues"
+  },
+  "homepage": "https://github.com/jp-agustin/ceisum-avetics-sample#readme",
+  "dependencies": {
+    "cesium": "^1.57.0",
+    "compression": "^1.7.4",
+    "express": "^4.16.4",
+    "path": "^0.12.7",
+    "request": "^2.88.0",
+    "url": "^0.11.0",
+    "yargs": "^13.2.2"
+  }
+}
